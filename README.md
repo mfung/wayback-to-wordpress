@@ -6,7 +6,7 @@ inserts for a fresh WordPress install.
 
 I wrote it to get [mengfung.com](https://mengfung.com) back: 101 posts from
 2007 to 2021, across two themes and a host move that renumbered every post.
-The write-up of how it works is on the blog.
+The story is in [Rebuilding my blog from the Wayback Machine](https://mengfung.com/2026/10/rebuilding-my-blog-from-the-wayback-machine/).
 
 It is a script for one site that tries to be easy to point at another, not a
 general tool. Expect to read the code and adjust it for your theme.
